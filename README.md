@@ -8,6 +8,7 @@ Provide a set of words you want to practice, the progress is saved in the same d
 
 `python justType.py`
 
+![Captura desde 2023-02-16 13-02-13](https://user-images.githubusercontent.com/101491319/219462379-73372399-134f-4323-a267-9e6a4f2ee25e.png)
 
 If you want to paste your list of words use `Ctrl + Shift + V`
 
