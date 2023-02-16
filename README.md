@@ -16,7 +16,7 @@ To stop the program just press  ` Ctrl + C `
 
 #### Future implementations
 
-- [ ] A sprint logo for "justType".
+- [ ] A sprint logo for "justPractice". (perhaps)
 - [ ] Different command-line options, such as, `justPractice start`, `justPractice progress`.
 	(Progress is saved on the csv files anyway but a more visual way to watch daily and overall progress without having to pull out the `panda`s)
 - [ ] Better score, based more on wpm.
