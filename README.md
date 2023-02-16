@@ -12,6 +12,8 @@ Provide a set of words you want to practice, the progress is saved in the same d
 
 If you want to paste your list of words use `Ctrl + Shift + V`
 
+To stop the program just press  ` Ctrl + C `
+
 #### Future implementations
 
 - [ ] A sprint logo for "justType".
